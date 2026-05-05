@@ -17,13 +17,6 @@
 
 → [View project](https://github.com/tsepokfun/FaceFollow)
 
-### AI & Multi-Agent Systems
-**Gennerative-Object** – An LLM-driven multi-agent simulation framework that answers complex questions through structured agent interaction.  
-- Early exploration of AI agents and prompt engineering.  
-- Written in Python, demonstrating understanding of large language models and system design.
-
-→ [View project](https://github.com/tsepokfun/Gennerative-Object)
-
 ### Web Development
 **攀·香港 (Climb Hong Kong)** – A complete informational website for Hong Kong's climbing community.  
 - Features an interactive map, gear guides, and full bilingual (Chinese/English) support.  
@@ -32,8 +25,15 @@
 → [View Web](https://tsepokfun.github.io/Climb-HK)
 → [View project](https://github.com/tsepokfun/Climb-HK)
 
+### AI & Multi-Agent Systems
+**Gennerative-Object** – An LLM-driven multi-agent simulation framework that answers complex questions through structured agent interaction.  
+- Early exploration of AI agents and prompt engineering.  
+- Written in Python, demonstrating understanding of large language models and system design.
+
+→ [View project](https://github.com/tsepokfun/Gennerative-Object)
+
 **sba-app** – A displacement cipher tool for encryption/decryption.  
-- Web-based, clean interface.  
+- python-based, clean interface.  
 - Demonstrates foundational knowledge of cryptography and front‑end logic.
 
 → [View project](https://github.com/tsepokfun/sba-app)
