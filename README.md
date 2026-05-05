@@ -29,7 +29,7 @@
 - Features an interactive map, gear guides, and full bilingual (Chinese/English) support.  
 - Built with HTML, CSS, JavaScript, and Leaflet.js. Fully self‑designed and developed.
 
-→ [View project](https://github.com/tsepokfun/3006)
+→ [View project](https://github.com/tsepokfun/Climb-HK)
 
 **sba-app** – A displacement cipher tool for encryption/decryption.  
 - Web-based, clean interface.  
