@@ -23,9 +23,7 @@
 → [View project](https://github.com/tsepokfun/Gennerative-Object)
 
 **AI Web Dev Workspace** – A next-gen AI web development workstation built around a **Code Segment Tree**: one semantic index of your whole project, scope-constrained editing (necessary change only), compile-verified updates, git-baseline retry loops, and a human-in-the-loop permission explainer.
-- TypeScript + Tree-sitter + Tauri, LLM-driven navigation and reviewing.
-
-→ [View project](https://github.com/tsepokfun/ai-web-dev-workspace)
+- TypeScript + Tree-sitter + Tauri, LLM-driven navigation and reviewing. *(In development — public soon.)*
 
 ### Web Development
 **攀·香港 (Climb Hong Kong)** – A complete informational website for Hong Kong's climbing community.
