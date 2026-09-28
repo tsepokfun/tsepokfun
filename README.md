@@ -1,7 +1,7 @@
 # Hi, I'm Pok Fun Tse 👋
 
 📍 Hong Kong  
-🎓 Higher Diploma in Software Engineering @ IVE (VTC)  
+🎓 Higher Diploma in Software Engineering @ HKIIT, IVE (VTC)  
 💡 I build things that work – from AI interpretability tools to multi-agent social simulations to full websites.
 
 📫 [pokfuntse@gmail.com](mailto:pokfuntse@gmail.com)
@@ -25,6 +25,12 @@
 **AI Web Dev Workspace** – A next-gen AI web development workstation built around a **Code Segment Tree**: one semantic index of your whole project, scope-constrained editing (necessary change only), compile-verified updates, git-baseline retry loops, and a human-in-the-loop permission explainer.
 - TypeScript + Tree-sitter + Tauri, LLM-driven navigation and reviewing. *(In development — public soon.)*
 
+### Developer Tooling
+**indify** – A Chrome extension that connects the browser to a local Dify instance. A Node/TypeScript bridge and an MCP server expose your published workflows as callable tools (`list_skills`, `run_skill`), and each Dify version sits behind two adapter files — so a platform upgrade never touches extension code.
+- Chrome Extension MV3 + TypeScript + Node.js + MCP server. Local side-effect approval tiers and an upgrade rehearsal script.
+
+→ [View project](https://github.com/tsepokfun/indify)
+
 ### Web Development
 **攀·香港 (Climb Hong Kong)** – A complete informational website for Hong Kong's climbing community.
 - Interactive map, gear guides, and full bilingual (Chinese/English) support.
@@ -45,7 +51,7 @@
 ## 🛠️ Skills & Technologies
 
 `TypeScript` `Python` `Swift` `HTML/CSS/JavaScript`  
-`Transformer interpretability` `LLM agents (LangGraph)` `Tree-sitter` `Tauri` `React`  
+`Transformer interpretability` `LLM agents (LangGraph)` `Tree-sitter` `Tauri` `React` `MCP`  
 `Git & GitHub` `Web mapping (Leaflet)` `UI/UX basics`
 
 ---
